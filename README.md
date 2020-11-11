@@ -13,23 +13,23 @@ btbd cleaner pic 1
 
 btbd cleaner pic 2
 
-![b](./proof_of_paste/b.png)
+![b](./proof_of_paste/b.PNG)
 
 
 
 
 btbd cleaner pic 3
 
-![c](./proof_of_paste/c.png)
+![c](./proof_of_paste/c.PNG)
 
 
 
 nasa mapper paste
 
-![d](./proof_of_paste/d.png)
+![d](./proof_of_paste/d.PNG)
 
 
 
 al khaser paste
 
-![e](./proof_of_paste/e.png)
+![e](./proof_of_paste/e.PNG)
